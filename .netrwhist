@@ -1,5 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =3
-let g:netrw_dirhist_3='/Users/andong/.ssh'
-let g:netrw_dirhist_2='/Users/andong/.gradle'
-let g:netrw_dirhist_1='/Users/andong/.vim'
